@@ -1,0 +1,92 @@
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.exe.config
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.exe
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.pdb
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\MainWindow.g.cs
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\App.g.cs
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_MarkupCompile.cache
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_MarkupCompile.lref
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\MainWindow.baml
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.g.resources
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.Properties.Resources.resources
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.GenerateResource.cache
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.CoreCompileInputs.cache
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.exe
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.pdb
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csprojAssemblyReference.cache
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.CopyComplete
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\App.g.cs
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_MarkupCompile.cache
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_MarkupCompile.lref
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.exe.config
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.exe
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.pdb
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\MainWindow.baml
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.g.resources
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.Properties.Resources.resources
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.GenerateResource.cache
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.CopyComplete
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.exe
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.pdb
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csprojAssemblyReference.cache
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\DBWindow.g.cs
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\DBWindow.baml
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\DBWindow.g.cs
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\DBWindow.baml
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.exe.config
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.exe
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.pdb
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\DBWindow.g.cs
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\App.g.cs
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_MarkupCompile.cache
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_MarkupCompile.lref
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\MainWindow.baml
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\DBWindow.baml
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.g.resources
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.Properties.Resources.resources
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.GenerateResource.cache
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.CopyComplete
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.exe
+C:\Users\Ryan\Desktop\Computer Science\Software Dev\TriviaMaze1\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.pdb
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.exe.config
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.exe
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.pdb
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csprojAssemblyReference.cache
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\MainWindow.g.cs
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\DBWindow.g.cs
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\App.g.cs
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_MarkupCompile.cache
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_MarkupCompile.lref
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\MainWindow.baml
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\DBWindow.baml
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.g.resources
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.Properties.Resources.resources
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.GenerateResource.cache
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.CoreCompileInputs.cache
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.CopyComplete
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.exe
+C:\Users\kforemski\Downloads\TriviaMaze-master\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.pdb
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.exe.config
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.exe
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\bin\Debug\CSCD350TeamHardModeTriviaMaze.pdb
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csprojAssemblyReference.cache
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\MainWindow.g.cs
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\DBWindow.g.cs
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\App.g.cs
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_MarkupCompile.cache
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_MarkupCompile.lref
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\MainWindow.baml
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\DBWindow.baml
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.g.resources
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.Properties.Resources.resources
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.GenerateResource.cache
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.CoreCompileInputs.cache
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.csproj.CopyComplete
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.exe
+C:\Users\kforemski\Desktop\TriviaMaze-master\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze.pdb
+V:\GitRepoStuff\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_Content.g.cs
+C:\Users\Ryan\TriviaMaze\CSCD350TeamHardModeTriviaMaze\obj\Debug\CSCD350TeamHardModeTriviaMaze_Content.g.cs

@@ -1,0 +1,123 @@
+﻿<Window x:Name="wndMainWindow" x:Class="CSCD350TeamHardModeTriviaMaze.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSCD350TeamHardModeTriviaMaze"
+        mc:Ignorable="d"
+        Title="Harry Potter TriviaMaze" Height="720" Width="1080" ResizeMode="NoResize" FontSize="20">
+
+
+
+
+    <Grid x:Name="grdMainGrid" Margin="0,0,0,0" Background="Black">
+        <Canvas x:Name="cnvBackgroundImage" HorizontalAlignment="Left" Height="641" VerticalAlignment="Top" Width="1074" Margin="0,50,0,0">
+            <Canvas.Background>
+                <ImageBrush ImageSource="GryffindorTopLeft.jpg"/>
+            </Canvas.Background>
+        </Canvas>
+        <Canvas x:Name="cnvBoardCanvas" HorizontalAlignment="Center" Height="100" VerticalAlignment="Top" Width="100" Margin="740,102,234,0"/>
+        <Grid x:Name="grdMovementGrid" HorizontalAlignment="Left" Height="236" VerticalAlignment="Top" Width="272" Margin="412,288,0,0">
+            <Button x:Name="btnMoveUp" Content="Up" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="93,39,0,0" Click="BtnMoveUp_Click"/>
+            <Button x:Name="btnMoveDown" Content="Down" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="93,129,0,0" Click="BtnMoveDown_Click"/>
+            <Button x:Name="btnMoveRight" Content="Right" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="186,129,0,0" Click="BtnMoveRight_Click"/>
+            <Button x:Name="btnMoveLeft" Content="Left" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="0,129,0,0" Click="BtnMoveLeft_Click"/>
+        </Grid>
+        <Grid x:Name="grdQuestionInstructions" HorizontalAlignment="Left" Height="199" VerticalAlignment="Top" Width="185" Margin="27,482,0,0">
+            <TextBlock x:Name="txtblkQuestionInstructions" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Instructions" VerticalAlignment="Top" Height="189" Width="175" Foreground="#FFF9F9F9" FontSize="14"/>
+        </Grid>
+        <Grid x:Name="grdTips" HorizontalAlignment="Left" Height="209" VerticalAlignment="Top" Width="156" Margin="908,482,0,0">
+            <TextBlock x:Name="txtblkTips" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Tips" VerticalAlignment="Top" Height="189" Width="146" Foreground="#FFF9F9F9" FontSize="14"/>
+        </Grid>
+        <Grid x:Name="grdQuestionGrid" HorizontalAlignment="Left" Height="164" VerticalAlignment="Top" Width="626" Margin="236,482,0,0" Background="Black">
+            <TextBox x:Name="txtbxQuestionBox" HorizontalAlignment="Left" Height="100" TextWrapping="Wrap" Text="Questions..." VerticalAlignment="Top" Width="616" SelectionBrush="#FFDEB912" Foreground="#FFF7CB54" FontSize="16">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="0.213"/>
+                        <GradientStop Color="#FFF90000" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <Grid x:Name="grdChoices" HorizontalAlignment="Left" Height="48" VerticalAlignment="Top" Width="616" Margin="0,105,0,0" Background="#FF3A0F06">
+                <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="76" Margin="516,7,0,0" Click="BtnSubmit_Click"/>
+                <TextBox x:Name="txtbxAnswerBox" HorizontalAlignment="Left" Height="28" TextWrapping="Wrap" VerticalAlignment="Top" Width="368" Margin="10,10,0,0"/>
+                <Button x:Name="btnClearAnswer" Content="Clear" HorizontalAlignment="Left" VerticalAlignment="Top" Width="76" Margin="422,7,0,0" Click="BtnClearAnswer_Click"/>
+            </Grid>
+        </Grid>
+
+
+        <Menu HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="1074">
+            <MenuItem x:Name="mnuFile" Header="_File"  Height="25">
+                <MenuItem x:Name="mnuFileNew" Header="_New" Click="MnuFileNew_Click" >
+                    <MenuItem.ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold" FontSize="14" Margin="0,0,0,5">Open New Game</TextBlock>
+                            <TextBlock>
+                        closes current window and opens
+                        <LineBreak />
+                        a new MissleCommand.
+                            </TextBlock>
+                            <Border BorderBrush="Silver" BorderThickness="0,1,0,0" Margin="0,8" />
+
+                        </StackPanel>
+                    </MenuItem.ToolTip>
+                </MenuItem>
+                <MenuItem x:Name="mnuSave" Header="_Save" Click="MnuSave_Click" >
+                    <MenuItem.ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold" FontSize="14" Margin="0,0,0,5">Save Game</TextBlock>
+                            <TextBlock>
+                        Saves the state of the game
+                        <LineBreak />
+                        so you can enjoy it later.
+                            </TextBlock>
+                            <Border BorderBrush="Silver" BorderThickness="0,1,0,0" Margin="0,8" />
+
+                        </StackPanel>
+                    </MenuItem.ToolTip>
+
+                </MenuItem>
+                <MenuItem x:Name="mnuLoad" Header="_Load" Click="MnuLoad_Click"  >
+                    <MenuItem.ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold" FontSize="14" Margin="0,0,0,5">Load Game</TextBlock>
+                            <TextBlock>
+                        Load your save game.
+                        <LineBreak />
+                        If you don't have a save game, <LineBreak />
+                        this will not do anything.
+                            </TextBlock>
+                            <Border BorderBrush="Silver" BorderThickness="0,1,0,0" Margin="0,8" />
+
+                        </StackPanel>
+                    </MenuItem.ToolTip>
+
+                </MenuItem>
+                <Separator />
+                <MenuItem x:Name="mnuExit" Header="_Exit" Click="MnuExit_Click" />
+
+            </MenuItem>
+            <MenuItem x:Name="mnuSetting" Header=" _Settings" >
+                <MenuItem x:Name="mnuFileDBWindow" Header="_New Question" HorizontalAlignment="Left" Height="84" Width="237" Margin="0,0,-88.2,0" Click="MnuFileDBWindow_Click" />
+            </MenuItem>
+        </Menu>
+        <Grid x:Name="grdChooseHousesGrid" HorizontalAlignment="Left" Height="651" VerticalAlignment="Top" Width="1074" Margin="0,40,0,0" Background="Black">
+            <Canvas x:Name="cnvChooseHouse" HorizontalAlignment="Left" Height="651" VerticalAlignment="Top" Width="1074">
+                <Canvas.Background>
+                    <ImageBrush ImageSource="ChooseAHouseMenu.jpg"/>
+                </Canvas.Background>
+            </Canvas>
+            <Button x:Name="btnHouseGryffindor" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="196" Margin="73,152,0,0" Height="234" Background="{x:Null}" Click="BtnHouseGryffindor_Click"/>
+            <Button x:Name="btnHouseRavenclaw" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="196" Margin="310,152,0,0" Height="234" Background="{x:Null}" Click="BtnHouseRavenclaw_Click"/>
+            <Button x:Name="btnHouseSlytherin" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="196" Margin="566,152,0,0" Height="234" Background="{x:Null}" Click="BtnHouseSlytherin_Click"/>
+            <Button x:Name="btnHouseHufflepuff" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="196" Margin="827,152,0,0" Height="234" Background="{x:Null}" Click="BtnHouseHufflepuff_Click"/>
+
+        </Grid>
+
+
+
+
+    </Grid>
+
+
+</Window>

@@ -1,0 +1,9 @@
+V:\Programs\VisualStudioProjects\TriviaMaze\RecursionMaze\bin\Debug\RecursionMaze.dll
+V:\Programs\VisualStudioProjects\TriviaMaze\RecursionMaze\bin\Debug\RecursionMaze.pdb
+V:\Programs\VisualStudioProjects\TriviaMaze\RecursionMaze\obj\Debug\RecursionMaze.csprojAssemblyReference.cache
+V:\Programs\VisualStudioProjects\TriviaMaze\RecursionMaze\obj\Debug\RecursionMaze.csproj.CoreCompileInputs.cache
+V:\Programs\VisualStudioProjects\TriviaMaze\RecursionMaze\obj\Debug\RecursionMaze.dll
+V:\Programs\VisualStudioProjects\TriviaMaze\RecursionMaze\obj\Debug\RecursionMaze.pdb
+V:\Programs\VisualStudioProjects\TriviaMaze\RecursionMaze\bin\Debug\Coordinates.dll
+V:\Programs\VisualStudioProjects\TriviaMaze\RecursionMaze\bin\Debug\Coordinates.pdb
+V:\Programs\VisualStudioProjects\TriviaMaze\RecursionMaze\obj\Debug\RecursionMaze.csproj.CopyComplete
